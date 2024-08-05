@@ -1,0 +1,4 @@
+.vs/
+.git/
+__pycache__/
+cache_dir
